@@ -76,3 +76,4 @@ scripts/dl-feature-attribution/*.png
 # vim stuff
 *.swo
 
+/.vscode
